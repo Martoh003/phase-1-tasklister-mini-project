@@ -1,6 +1,6 @@
 # Challenge: TaskLister Mini-Project
 
-## Learning Goals
+## Learning Goals 
 
 * Build a functioning to-do list application
 * Suppress a default action with `event.preventDefault()`
